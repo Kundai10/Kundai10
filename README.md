@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Kundai Chasinda</h1>
 <h3 align="center">A passionate Android App Developer from Zimbabwe.</h3>
-[![An image of @kundai10's Holopin badges](https://holopin.me/kundai10/image.png)](https://holopin.io/@kundai10)
+[![An image of @kundai10's Holopin badges](https://holopin.me/kundai10)](https://holopin.io/@kundai10)
 
 - 🔭 I’m currently working on **An AI-powered home design android app.**
 
