@@ -2,15 +2,15 @@
 
 <h1 align="center">Hi 👋, I'm Kundai Chasinda</h1>
 <h3 align="center">A passionate Android App Developer from Zimbabwe.</h3>
-[![An image of @kundai10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kundai10#)](https://holopin.io/@kundai10#)
+[![An image of @kundai10's Holopin badges](https://holopin.me/kundai10/image.png)](https://holopin.io/@kundai10)
 
-- 🔭 I’m currently working on **An AI-powered home design app.**
+- 🔭 I’m currently working on **An AI-powered home design android app.**
 
 - 🌱 I’m currently learning **Kotlin Multiplatform**
 
 - 💬 Ask me about **Android App development**
 
-- 📫 How to reach me **chasindak9@gmail.com**
+- 📫 How to reach me **k.chasinda@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
